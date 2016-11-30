@@ -7,5 +7,6 @@ public class NewTest {
   public void f() {
 	  
 	  System.out.println("Success from Config");
+	  System.out.println("Success from Config1");
   }
 }
