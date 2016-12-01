@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="48" started-at="2016-11-30T11:11:42Z" finished-at="2016-11-30T11:11:42Z">
+  <suite name="Suite" duration-ms="25" started-at="2016-11-30T11:50:40Z" finished-at="2016-11-30T11:50:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="48" started-at="2016-11-30T11:11:42Z" finished-at="2016-11-30T11:11:42Z">
+    <test name="Test" duration-ms="25" started-at="2016-11-30T11:50:40Z" finished-at="2016-11-30T11:50:40Z">
       <class name="com.scb.TestData.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.scb.TestData.NewTest@3f6843]" name="f" duration-ms="1" started-at="2016-11-30T16:41:42Z" finished-at="2016-11-30T16:41:42Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.scb.TestData.NewTest@129efd0]" name="f" duration-ms="0" started-at="2016-11-30T17:20:40Z" finished-at="2016-11-30T17:20:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.scb.TestData.NewTest -->
       <class name="com.scb.Config.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.scb.Config.NewTest@1c5d0e0]" name="f" duration-ms="33" started-at="2016-11-30T16:41:42Z" finished-at="2016-11-30T16:41:42Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.scb.Config.NewTest@eeb560]" name="f" duration-ms="9" started-at="2016-11-30T17:20:40Z" finished-at="2016-11-30T17:20:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
